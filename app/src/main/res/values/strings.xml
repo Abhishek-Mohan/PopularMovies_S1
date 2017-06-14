@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PopularMovies_S1</string>
+    <string name="action_settings">Settings</string>
+    <string name="themoviedb_api_key"></string>
+    <string name="movieposter_image">MoviePoster Image</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="Plot_Synopsis">Plot Synopsis: %1$s</string>
+    <string name="Rating">Rating: %1$s/10 </string>
+    <string name="Release_Date">Release Date: %1$s</string>
+</resources>
